@@ -161,7 +161,7 @@ Không phát sinh lỗi
 
 ➡️ Website vẫn hoạt động ổn định với số lượng người dùng cao hơn.
 
-Thread Group 3 – Báo Mới và Vietnamnet
+Thread Group 3 – VnExpress và Vietnamnet
 
 Response time tương đối cao do nội dung trang báo có nhiều dữ liệu
 
